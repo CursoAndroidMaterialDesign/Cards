@@ -3,8 +3,6 @@ CardViews
 
 Os CardViews servem como listagem de informações mais detalhadas.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
